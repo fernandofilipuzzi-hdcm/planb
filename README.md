@@ -1,2 +1,2 @@
 # planb
-Plen2 reimplentation
+Plen2 humanoid reimplentation
